@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "SelfServeCompiler": {
-      "commandName": "Project",
-      "commandLineArgs": "-s C:\\Projects\\Openhacks\\serverless\\portal\\en -d c:\\Temp\\html"
-    }
-  }
-}
