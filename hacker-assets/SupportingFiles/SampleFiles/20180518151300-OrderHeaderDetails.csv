@@ -1,0 +1,8 @@
+ponumber,datetime,locationid,locationname,locationaddress,locationpostcode,totalcost,totaltax
+ZUV041,4/18/2018 4:13:05 PM,CCC333,VanArsdel Ltd.,789 FE Road,98052,183.61,18.361
+OLM080,4/26/2018 12:11:50 PM,AAA111,Contoso Suites,123 Wholesale Road,98112,348.34,34.834
+XOZ760,5/7/2018 3:27:38 PM,CCC333,VanArsdel Ltd.,789 FE Road,98052,109.73,10.973
+HNK706,5/1/2018 11:21:07 PM,AAA111,Contoso Suites,123 Wholesale Road,98112,204.02,20.402
+IMV125,5/18/2018 1:57:59 PM,BBB222,Northwind Traders,456 Foodcenter Lane,98101,7.98,0.798
+RMA557,4/25/2018 5:25:53 PM,AAA111,Contoso Suites,123 Wholesale Road,98112,107.88,10.788
+EIN088,4/24/2018 9:59:07 PM,DDD444,Wide World Importers,645 Roosevelt Avenue,98121,127.92,12.792
